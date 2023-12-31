@@ -1,0 +1,24 @@
+@font-face {
+    font-family:vazir;
+    src: url("Vazir.woff2") format(woff2);
+ }
+
+* {
+    font-family:vazir !important;
+}
+body{
+    /* background-color: #098568 */
+    background-color: rgb(101, 90, 122);
+    /* background-color: rgba(0, 0, 100,0.5); */
+ }
+ 
+ #prg{
+    font-size: 25px;
+    font-style: italic;
+    color: #069c22;
+    text-align: justify;
+ }
+ 
+ .header{
+    color: red;
+ }
